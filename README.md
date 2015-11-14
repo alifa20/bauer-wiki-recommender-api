@@ -13,3 +13,8 @@ ssh -i recomm-key.pem ubuntu@ec2-54-252-200-68.ap-southeast-2.compute.amazonaws.
 
 	source activate dato-env
 	python p.py
+	
+* Browse link is:
+ 
+
+>http://ec2-54-153-199-191.ap-southeast-2.compute.amazonaws.com/
