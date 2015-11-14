@@ -1,6 +1,6 @@
 # bauer-wiki-recommender-api
 
-# running on aws
+# Running on aws
 
 * goto /keys folder (This folder is git ignored!)
 
