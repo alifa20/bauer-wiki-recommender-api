@@ -25,4 +25,5 @@
 	kill -9 pid
 
 >http://ec2-54-153-199-191.ap-southeast-2.compute.amazonaws.com/
-54.153.199.191
+
+>http://54.153.199.191
