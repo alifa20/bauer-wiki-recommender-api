@@ -16,7 +16,7 @@
 >run server
 
 	source activate dato-env
-	python p.py
+	nohup python p.py
 	
 * Browse link is:
  
