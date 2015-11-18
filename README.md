@@ -20,5 +20,8 @@
 	
 * Browse link is:
  
+>In case needed to kill the process
+	
+	kill -9 pid
 
 >http://ec2-54-153-199-191.ap-southeast-2.compute.amazonaws.com/
