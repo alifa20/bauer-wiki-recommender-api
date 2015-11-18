@@ -3,6 +3,7 @@ import graphlab
 import json
 from StringIO import StringIO
 import yaml
+import datetime
 
 urls = (
     '/', 'index'
@@ -10,7 +11,7 @@ urls = (
 
 class index:
     def GET(self):
-        return "Wiki recommender api."
+        return "Wiki recommender api. <br /> %s" % datetime.datetime.now().strftime("%H:%M:%S.%f")
 
     def POST(self):
         # i = web.input()
